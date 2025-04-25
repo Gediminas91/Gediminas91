@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Gediminas
 
-<!--
-**Gediminas91/Gediminas91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer passionate about building clean, responsive, and interactive web experiences.  
+Currently focused on mastering JavaScript, React, and deploying real-world projects.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** HTML, CSS, JavaScript  
+**Frameworks & Tools:** React, Vite, Git, GitHub, Node.js (learning), Vercel  
+**Currently Learning:** React, Node.js, MongoDB, and building full-stack apps
+
+
+## 🚀 Projects
+
+- **Sushi Landing Page**  
+  A modern, responsive sushi website built with HTML, CSS, and JavaScript  
+  🔗 [Live Demo](sushi-puce-chi.vercel.app)  
+  💻 [Code](https://github.com/Gediminas91/sushi)
+
+
+## 🎯 Learning Goals
+
+- Build and deploy real-world apps
+- Master React and Node.js
+- Improve clean code and reusable components
+- Start freelancing or join a development team
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gediminas91)
+- Email: gediminaslatonas91@gmail.com
