@@ -14,7 +14,7 @@ Currently focused on mastering JavaScript, React, and deploying real-world proje
 
 - **Sushi Landing Page**  
   A modern, responsive sushi website built with HTML, CSS, and JavaScript  
-  🔗 [Live Demo](sushi-puce-chi.vercel.app)  
+  🔗 [Live Demo](https://sushi-puce-chi.vercel.app)  
   💻 [Code](https://github.com/Gediminas91/sushi)
 
 
